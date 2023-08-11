@@ -1,1 +1,4 @@
-# Data-Science-Projects-Machine Learning models and Clinical Data Analysis 
+# Data-Science-Projects-
+In this repository,I am trying different Machine Learning methods on Kaggle clinical datasets. 
+
+
