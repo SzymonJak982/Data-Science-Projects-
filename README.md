@@ -4,7 +4,7 @@ In this two short data science projects, I am trying different Machine Learning 
 
 # 1. Breast cancer classification 
 ## Introduction
-Aim of this analysis is to predict which tumors can be malignant. Used methods are prinicipal component analysis and dimensionality reduction to check for the feature meaningfulness in tumor malignancy prediction. PCA model was then compared to Logistic Regression model. This analysis was conducted using Wisconsin Breast Cancer dataset. 
+The aim of this analysis is to predict malignancy in tumors. Principal Component Analysis (PCA) and dimensionality reduction methods were employed to assess the significance of features in predicting tumor malignancy. The PCA model was subsequently compared to a Logistic Regression model. This analysis was performed using the Wisconsin Breast Cancer dataset.
 ## Methods
 - Logistic Regression
 - Principal Component Analysis (PCA)
