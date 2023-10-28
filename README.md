@@ -11,7 +11,7 @@ Aim of this analysis is to predict which tumors can be malignant. Used methods a
 
 # 2. Heart failure prediction 
 ## Introduction
-objective of this analysis is a selection of the best machine learning model for the dataset and evaluating how well these models perform in predicting the occurrence of death events in patients depending on different clinical features associated with heart failure.
+Objective of this analysis is a selection of the best machine learning model for the dataset and evaluating how well these models perform in predicting the occurrence of death events in patients depending on different clinical features associated with heart failure. Data used in this analysis was part of the biomedical research conducted by Chicco and Jurman (*Medical Informatics and Decision Making*, 2020)
 ## Methods
 - Logistic Regression
 - Support Vector Machine Classificator (SVC)
